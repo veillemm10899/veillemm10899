@@ -11,23 +11,6 @@
 
 <hr/>
 
-## About Me
-
-| | |
-|---|---|
-| **Name** | Cyrus Vergara / VEILLEMM |
-| **Role** | Software Engineer |
-| **Education** | BSCS in Computer Science — Major in Software Development |
-| **University** | Bataan Peninsula State University (2024) |
-| **Location** | Philippines |
-| **Focus** | Full-Stack Development, Automation & Monitoring Systems |
-
-I graduated with honors from Bataan Peninsula State University with a degree in Computer Science. I build production-grade applications across mobile, web, and automation — from Flutter apps to Python-based real-time systems.
-
-**Microsoft Office Specialist** — Excel Associate · Word Associate · PowerPoint Associate (Microsoft 365 Apps)
-
-<hr/>
-
 ## Tech Stack
 
 <p align="center">
@@ -72,6 +55,23 @@ I graduated with honors from Bataan Peninsula State University with a degree in 
   <img src="https://img.shields.io/badge/Penetration_Testing-0D1117?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ethical_Hacking-0D1117?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 </p>
+
+<hr/>
+
+## About Me
+
+| | |
+|---|---|
+| **Name** | Cyrus Vergara / VEILLEMM |
+| **Role** | Software Engineer |
+| **Education** | BSCS in Computer Science — Major in Software Development |
+| **University** | Bataan Peninsula State University (2024) |
+| **Location** | Philippines |
+| **Focus** | Full-Stack Development, Automation & Monitoring Systems |
+
+I graduated with honors from Bataan Peninsula State University with a degree in Computer Science. I build production-grade applications across mobile, web, and automation — from Flutter apps to Python-based real-time systems.
+
+**Microsoft Office Specialist** — Excel Associate · Word Associate · PowerPoint Associate (Microsoft 365 Apps)
 
 <hr/>
 
